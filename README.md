@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-wiz&show_icons=true&locale=en&layout=compact" alt="shubham-wiz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-wiz&show_icons=true&locale=en" alt="shubham-wiz" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-wiz&" alt="shubham-wiz" /></p>
 
